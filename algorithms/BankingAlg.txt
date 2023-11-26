@@ -1,0 +1,13 @@
+//Withdraw
+step 1: Checking balance
+step 2: Enter amount to withdraw
+step 3: Minus amount from balance
+step 4: updating balance amount
+step 5: if want check balance 
+
+//Deposit
+step 1: Checking balance
+step 2: Enter amount to deposit
+step 3: plus amount to balance
+step 4: updating balance amount
+step 5: if want check balance 

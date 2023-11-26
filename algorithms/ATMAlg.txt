@@ -1,0 +1,8 @@
+//ATM
+step 1: Showing options
+step 2: Checking balance
+step 3: enter amount to withdraw
+step 4: enter pin to process the request
+step 5: minnus amount from existing balance
+step 6: giving money to user
+step 7: again go to home(options).
